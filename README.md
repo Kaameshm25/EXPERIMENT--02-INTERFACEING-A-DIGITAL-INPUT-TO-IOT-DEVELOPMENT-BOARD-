@@ -31,6 +31,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e428175-f331-4eaa-bca8-cf7a1e9255ff" />
 
 4.select the program name 
+
 <img width="487" height="538" alt="image" src="https://github.com/user-attachments/assets/0df0d203-9332-4bbd-abee-b7889532410f" />
 
 
